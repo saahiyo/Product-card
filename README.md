@@ -2,7 +2,8 @@
 
 ## preview 
 
-![preview](https://github.com/saahiyo/Product-card/assets/81853097/88647138-b3af-4758-8cac-608e21b52e61)
+![preview](https://github.com/saahiyo/Product-card/assets/81853097/9dd05a9b-0e96-4367-b16d-2cfd73e27624)
+
 
 This project represents my inaugural experience with Bootstrap, showcasing a product card for a Super Computer Digital Art solution.
 
